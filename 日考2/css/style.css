@@ -86,7 +86,8 @@ section p {
     margin-left: 10%;
     margin-bottom: 10%;
     border: 0;
-    padding-left: 2rem; }
+    padding-left: 2rem;
+    outline: none; }
 
 .one {
   position: absolute;
